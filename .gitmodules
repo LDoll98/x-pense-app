@@ -1,0 +1,3 @@
+[submodule "x-pense-backend"]
+	path = x-pense-backend
+	url = https://github.com/LDoll98/x-pense-backend.git
